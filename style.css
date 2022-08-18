@@ -11,4 +11,18 @@ body{
     margin: auto;
 }
 
+hi.title{
+    text-align: left!important;
+    color: blueviolet;
+    text-transform: uppercase;
+    font-size: 40px;
+    padding: 10px;
+}
+
+h1.title:hover{
+    text-decoration: overline;
+    color: #a52aa5;
+    transition: ease-in-out;
+}
+
 
